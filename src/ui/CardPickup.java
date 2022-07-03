@@ -1023,9 +1023,6 @@ public class CardPickup extends JFrame {
         return Numero;
     }
 
-    public static void main(String args[]) {
-
-        new CardPickup().setVisible(true);
-    }
+   
 
 }
